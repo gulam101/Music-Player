@@ -1,0 +1,16 @@
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\bin\Debug\Music Player Project.exe.config
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\bin\Debug\Music Player Project.exe
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\bin\Debug\Music Player Project.pdb
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\Music Player Project.csprojAssemblyReference.cache
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\Music_Player_Project.Properties.Resources.resources
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\Music Player Project.csproj.GenerateResource.cache
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\Music Player Project.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\Music Player Project.exe
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\Music Player Project.pdb
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\Music Player Project.csproj.ResolveComReference.cache
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\Music_Player_Project.SplashScreen.resources
+C:\Users\Gulam\source\repos\Music Player Project\Music Player Project\obj\Debug\Music_Player_Project.Main.resources
