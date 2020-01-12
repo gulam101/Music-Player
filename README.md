@@ -8,7 +8,6 @@
 - Planned Features
 - What I Learnt
 - Constraints
-- Improvements
 - Screenshots
 - Credits
 
