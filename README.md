@@ -20,6 +20,9 @@ The project allows the user to play their favourite song and keep on changing to
 
 User loads application and then click on the add button which would then ask them to point the song they want to play.
 
+### Planned Features:
+I would change the interface and then add a track list that allows the user to highlight songs and play them in the highlighted order. 
+
 ### Things I learnt:
 - Using .DLL files
 - Getting used to the toolbox
