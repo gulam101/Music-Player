@@ -29,15 +29,12 @@ I would change the interface and then add a track list that allows the user to h
 - Cleaner code
 - Using the reference tool
 
+### Tools/Links
+https://www.udemy.com/course/learn-to-code-with-c-by-creating-7-complete-apps/
 
 ### Constraints
 
 None.
-
-### Improvements:
-- New improved interfaces
-- Changing the design of the music player
-- Fixing some bugs
 
 ### Credits
 Tech Academy (Udemy Author)
