@@ -23,7 +23,7 @@ User loads application and then click on the add button which would then ask the
 ### Planned Features:
 I would change the interface and then add a track list that allows the user to highlight songs and play them in the highlighted order. 
 
-### Things I learnt:
+### What I Learnt:
 - Using .DLL files
 - Getting used to the toolbox
 - Cleaner code
