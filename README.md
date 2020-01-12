@@ -9,7 +9,8 @@
 - What I Learnt
 - Constraints
 - Improvements
-- Screenshot- Credits
+- Screenshots
+- Credits
 
 ### Description:
 
