@@ -3,15 +3,6 @@
 ## C# Music player Windows Standard Form
 
 # Table of Contents
-- Description
-- Instructions
-- Planned Features
-- What I Learnt
-- Constraints
-- Screenshots
-- Credits
-
-
 [Description](#Description)  
 <a name="Description"/>
 
