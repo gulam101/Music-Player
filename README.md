@@ -11,6 +11,32 @@
 - Screenshots
 - Credits
 
+
+[Description](#Description)  
+<a name="Description"/>
+
+[Instructions](#Instructions)  
+<a name="Instructions"/>
+
+[Planned Features](#Planned_Features)  
+<a name="Planned_Features"/>
+
+[What I learnt](#What_I_Learnt)  
+<a name="What_I_Learnt"/>
+
+[Tools/Links](#Tools/Links)  
+<a name="Tool/Links"/>
+
+[Constraints](#Constraints)  
+<a name="Constraints"/>
+
+[Screenshots](#Screenshots)
+<a name="Screenshots"/>
+
+[Credits](#Credits)  
+<a name="Credits"/>
+
+
 ### Description:
 
 The project allows the user to play their favourite song and keep on changing to different songs. If the user doesn't like the current song then they can skip it or they can find a new one and play it. They can use it to listen to music in the background.
