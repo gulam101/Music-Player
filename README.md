@@ -9,8 +9,7 @@
 - What I Learnt
 - Constraints
 - Improvements
-- Screenshots
-- Credits
+- Screenshot- Credits
 
 ### Description:
 
@@ -35,3 +34,6 @@ None.
 - New improved interfaces
 - Changing the design of the music player
 - Fixing some bugs
+
+### Credits
+Tech Academy (Udemy Author)
