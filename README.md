@@ -37,5 +37,5 @@ I didn't have any issues when developing this project.
 
 ### Screenshoots:
 
-### Credits
+### Credits:
 Tech Academy (Udemy Author)
