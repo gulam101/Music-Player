@@ -28,14 +28,14 @@ I would change the interface and then add a track list that allows the user to h
 - Cleaner code
 - Using the reference tool
 
-### Tools/Links
+### Tools/Links:
 https://www.udemy.com/course/learn-to-code-with-c-by-creating-7-complete-apps/
 
-### Constraints
+### Constraints:
 
-None.
+I didn't have any issues when developing this project.
 
-### Screenshoots
+### Screenshoots:
 
 ### Credits
 Tech Academy (Udemy Author)
