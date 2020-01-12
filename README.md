@@ -16,6 +16,10 @@
 
 The project allows the user to play their favourite song and keep on changing to different songs. If the user doesn't like the current song then they can skip it or they can find a new one and play it. They can use it to listen to music in the background.
 
+### Insturctions:
+
+User loads application and then click on the add button which would then ask them to point the song they want to play.
+
 ### Things I learnt:
 - Using .DLL files
 - Getting used to the toolbox
