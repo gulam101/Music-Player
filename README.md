@@ -14,7 +14,7 @@ Credits
 
 ### Description:
 
-The project allows the user to play their favourite song and keep on changing to different songs.
+The project allows the user to play their favourite song and keep on changing to different songs. If the user doesn't like the current song then they can skip it or they can find a new one and play it. They can use it to listen to music in the background.
 
 ### Things I learnt:
 - Using .DLL files
