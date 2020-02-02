@@ -2,7 +2,7 @@
 
 ## C# Music player Windows Standard Form
 
-# Table of Contents
+# Table of Contents:
 [Description](#Description)  
 <a name="Description"/>
 
