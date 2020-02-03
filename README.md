@@ -1,6 +1,6 @@
-# Music-player-Project
+# Music Player
 
-## C# Music player Windows Standard Form
+## Music Player Windows Standard Form
 
 # Table of Contents:
 [Description](#Description)  
