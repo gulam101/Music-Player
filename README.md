@@ -1,6 +1,6 @@
 # Music Player
 
-## Music Player Windows Standard Form
+## Music Player - Windows Standard Form
 
 # Table of Contents:
 [Description](#Description)  
